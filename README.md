@@ -1,7 +1,4 @@
-# Systems Programming Repository  
-**Course:** Systems Programming  
-**Instructor:** Abhijat Vichare (Visiting Faculty)  
-**University:** FLAME University  
+# Systems Programming Repository    
 
 ## Repository Structure  
 
@@ -46,6 +43,10 @@
 ### `file_copy/` (File Copy Utility)  
 - Efficiently copies files (text and binary) with system calls  
 
+---
+**Course:** Systems Programming  
+**Instructor:** Abhijat Vichare (Visiting Faculty)  
+**University:** FLAME University
 ---
 
 Each program follows **UNIX system calls**, does **not define custom error codes**, and was developed collaboratively, emphasizing **low-level system programming, process management, and IPC mechanisms**.  
